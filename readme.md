@@ -10,6 +10,7 @@ Clone the repository:
 git clone https://github.com/sourabh-Kalvium/auth_flow.git
 cd auth_flow
 Backend Setup
+
 1. Create a .env file
 
 Inside the server folder, create a .env file and add the following variables:
