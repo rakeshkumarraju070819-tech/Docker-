@@ -3,6 +3,7 @@ Auth Flow (React + Node + MongoDB)
 This project implements a basic Authentication Flow using a React frontend and a Node.js + Express backend with MongoDB.
 It supports user registration, login, JWT authentication, and email functionality using Nodemailer.
 
+
 📦 Project Setup
 
 Clone the repository:
